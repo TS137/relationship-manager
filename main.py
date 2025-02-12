@@ -3,7 +3,7 @@ import requests
 import streamlit as st
 
 # 配置 GitHub 相关信息
-GITHUB_TOKEN = "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"  
+GITHUB_TOKEN = "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"  
 REPO_OWNER = "TS137"  
 REPO_NAME = "relationship-manager"  
 FILE_PATH = "people_data.json"  
